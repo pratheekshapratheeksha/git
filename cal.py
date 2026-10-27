@@ -1,3 +1,3 @@
 def cal(a,b):
-    return a+b
-print(cal(5,7))
+    return a*b
+print(cal(1,6))
